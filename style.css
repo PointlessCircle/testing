@@ -1,0 +1,37 @@
+body {
+    background-color: #181818;
+    color: white;
+}
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+h3 {
+    text-align: center;
+    font-size: large;
+    font-family: 'Montserrat', sans-serif;
+}
+p {
+    font-family: 'Red Hat Display', sans-serif;
+}
+div {
+    font-family: 'Red Hat Display', sans-serif;
+}
+a {
+    color: deepskyblue;
+}
+button {
+    border-radius: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: medium;
+    padding: 5px;
+    font-family: 'Red Hat Display';
+    transition-duration: 0.4s;
+}
+button:hover {
+    background-color: #1c2425;
+}
