@@ -11,6 +11,6 @@ function testing(t2) {
     console.log(t2);
 }
 
-cB(1,row1);
-cB(2,row1);
-cB(3,row2);
+cB(1,r1);
+cB(2,r1);
+cB(3,r2);
