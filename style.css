@@ -29,6 +29,7 @@ button {
     cursor: pointer;
     font-size: medium;
     padding: 5px;
+    margin: 5px;
     font-family: 'Red Hat Display';
     transition-duration: 0.4s;
 }
